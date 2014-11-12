@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="api_key">5d8ece393de26cdccc7204f5134a95a6</string>
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_night">&#xf02e;</string>
+
+    <string name="weather_cloudy">&#xf011;</string>
+    <string name="weather_cloudy_windy">&#xf012;</string>
+    <string name="weather_rain">&#xf019;</string>
+    <string name="weather_snow">&#xf01b;</string>
+    <string name="weather_storm">&#xf01e;</string>
+
+    <string name="temperature">Current temperature</string>
+    <string name="submit_button">Submit</string>
+    <string name="input_city_hint">Input city here</string>
+
+</resources>
